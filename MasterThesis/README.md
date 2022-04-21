@@ -1,0 +1,2 @@
+# DataVisualisationThesis
+Master of Science in Automation and Control Engineering Thesis, developed in Python. In the repository there are the two main files and the dataset used to test the program. For further information, do not hesitate contacting me. Feel comfortable to contact me for advices and improvemnt of the code. Unfortunately the code is not well commented, but I have the original essay of my thesis and I will be open to share it with you confidentally.
